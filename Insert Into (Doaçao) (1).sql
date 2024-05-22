@@ -1,0 +1,22 @@
+INSERT INTO Doacao (id_doacao, valor, id_doador, descricao_doador, data_doacao)
+VALUES
+    (1, 100.00, 1, 'Doador Mensal', '2020-06-12'),
+    (2, 50.00, 2, 'Doador Anual', '2021-09-23'),
+    (3, 200.00, 3, 'Doador Semanal', '2020-11-05'),
+    (4, 75.00, 4, 'Doador Mensal', '2022-03-17'),
+    (5, 150.00, 5, 'Doador Anual', '2021-07-28'),
+    (6, 80.00, 6, 'Doador Semanal', '2022-01-10'),
+    (7, 120.00, 7, 'Doador Mensal', '2023-02-08'),
+    (8, 90.00, 8, 'Doador Anual', '2020-10-19'),
+    (9, 180.00, 9, 'Doador Semanal', '2022-05-30'),
+    (10, 70.00, 10, 'Doador Mensal', '2023-01-03'),
+    (11, 130.00, 11, 'Doador Anual', '2021-04-14'),
+    (12, 160.00, 12, 'Doador Semanal', '2020-08-07'),
+    (13, 95.00, 13, 'Doador Mensal', '2022-09-21'),
+    (14, 220.00, 14, 'Doador Anual', '2021-11-29'),
+    (15, 40.00, 15, 'Doador Semanal', '2023-05-02'),
+    (16, 85.00, 16, 'Doador Mensal', '2020-12-09'),
+    (17, 175.00, 17, 'Doador Anual', '2021-03-22'),
+    (18, 65.00, 18, 'Doador Semanal', '2022-06-14'),
+    (19, 115.00, 19, 'Doador Mensal', '2020-04-26'),
+    (20, 200.00, 20, 'Doador Anual', '2023-07-11');

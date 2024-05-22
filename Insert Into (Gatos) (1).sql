@@ -1,0 +1,22 @@
+INSERT INTO Gatos (id, cor, raca, idade, data_entrada, data_saida, nome)
+VALUES
+(1, 'Marrom', 'Persa', 2, '2019-07-10', '2020-03-15', 'Bella'),
+(2, 'Preto', 'Siamês', 3, '2020-01-05', '2021-01-10', 'Simba'),
+(3, 'Branco', 'Maine Coon', 1, '2021-03-20', '2022-07-01', 'Luna'),
+(4, 'Cinza', 'Bengal', 4, '2020-02-10', '2020-05-22', 'Max'),
+(5, 'Laranja', 'Fold Escocês', 2, '2020-11-30', '2021-06-28', 'Oliver'),
+(6, 'Preto e Branco', 'Sphynx', 1, '2021-01-20', '2022-02-14', 'Milo'),
+(7, 'Cinza', 'Ragdoll', 3, '2022-03-05', '2023-01-18', 'Sophie'),
+(8, 'Marrom', 'Burmês', 2, '2021-06-15', '2022-07-01', 'Leo'),
+(9, 'Preto', 'British Shorthair', 1, '2022-09-10', '2023-04-05', 'Mia'),
+(10, 'Branco e Marrom', 'Ragamuffin', 3, '2021-11-25', '2023-04-05', 'Charlie'),
+(11, 'Cinza', 'Persa', 2, '2020-08-15', '2021-01-10', 'Loki'),
+(12, 'Marrom e Branco', 'Maine Coon', 3, '2021-05-10', '2022-02-14', 'Mia'),
+(13, 'Preto', 'Siamês', 1, '2022-01-02', '2023-04-05', 'Simba'),
+(14, 'Laranja', 'Bengal', 2, '2022-03-12', '2023-04-05', 'Nala'),
+(15, 'Branco', 'Fold Escocês', 4, '2021-05-20', '2021-06-28', 'Oscar'),
+(16, 'Preto e Branco', 'Sphynx', 2, '2022-02-05', '2022-07-01', 'Lola'),
+(17, 'Cinza', 'Ragdoll', 3, '2022-05-10', '2023-01-18', 'Leo'),
+(18, 'Marrom', 'Burmês', 1, '2022-01-15', '2022-05-22', 'Luna'),
+(19, 'Preto', 'British Shorthair', 2, '2020-07-25', '2021-01-10', 'Max'),
+(20, 'Branco e Marrom', 'Ragamuffin', 3, '2021-10-10', '2022-02-14', 'Lucy');
